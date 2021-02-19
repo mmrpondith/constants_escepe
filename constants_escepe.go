@@ -11,7 +11,10 @@ var c=32.555
 var d="tomar name ki \ntianr "
 var f="tomar name ki \t tianr "
 var e="tomar name ki \a tianr "
+var int32 int
+int32='m'
 
+fmt.Println(int32)
 fmt.Println(a)
 fmt.Println(b)
 fmt.Println (c)
